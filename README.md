@@ -1,3 +1,5 @@
+## READ PDF FOR INSTRUCTIONS ON HOW TO USE
+
 An effective keylogger spyware, camoflagged as a Sticky-Note program, which records the user's activity, stores it into files, compresses file into a ZIP file folder, and sends the ZIP folder in an email.
 
 -----------------------------------------------------Warning!!------------------------------------------------------------------

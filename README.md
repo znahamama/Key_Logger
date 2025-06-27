@@ -1,7 +1,5 @@
 # 🕵️ Keylogger  – Cybersecurity Project
 
-> A comprehensive educational project combining Linux basics, network reconnaissance (Nmap), packet analysis (Wireshark), and a fully-featured keylogger disguised as a sticky note app. 
-
 ## 🔧 Project Overview
 
 This repository is a cybersecurity project focused on simulating real-world ethical hacking tools and spyware techniques. It is designed to:
